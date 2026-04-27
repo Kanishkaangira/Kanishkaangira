@@ -8,16 +8,6 @@
 
 ## 🚀 About Me
 
-```python
-kanishka = {
-    "degree"    : "B.Tech Computer Engineering (CS Major | Data Science Minor)",
-    "email"     : "kanuangira2005@gmail.com",
-    "focus"     : ["AI/ML", "Mobile Dev", "Full-Stack", "UI/UX"],
-    "currently" : "Building AI-powered apps & exploring ML systems",
-    "goal"      : "Engineer impactful tech that solves real problems"
-}
-```
-
 - 🤖 Fine-tuned LLMs on domain-specific datasets for real-world cybersecurity apps
 - 🎭 **Cultural Head** — CSE Dept | 🎓 **Class Representative** | 📘 **Brochure Committee Member**
 - 💡 Active on **LeetCode** — sharpening DSA skills daily
@@ -66,17 +56,19 @@ kanishka = {
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishkaangira&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=10" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Kanishkaangira&theme=transparent&hide_border=false&border=30363d&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishkaangira&show_icons=true&theme=transparent&hide_border=false&count_private=true&rank_icon=github&title_color=64ffda&text_color=cdd9e5&icon_color=64ffda&border_color=1e2d40&border_radius=10&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kanishkaangira&theme=transparent&hide_border=false&border=1e2d40&background=0a0f1e&ring=64ffda&fire=f78166&currStreakLabel=64ffda&sideLabels=64ffda&dates=768390&currStreakNum=cdd9e5&sideNums=cdd9e5&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkaangira&theme=transparent&hide_border=false&layout=compact&langs_count=6&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishkaangira&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff&hide_border=false&border_color=30363d&radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkaangira&theme=transparent&hide_border=false&layout=compact&langs_count=6&title_color=64ffda&text_color=cdd9e5&border_color=1e2d40&border_radius=10&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishkaangira&bg_color=0a0f1e&color=64ffda&line=64ffda&point=f78166&area=true&area_color=64ffda&hide_border=false&border_color=1e2d40&radius=10" />
 
 </div>
 
