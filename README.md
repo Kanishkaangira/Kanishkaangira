@@ -56,19 +56,17 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishkaangira&show_icons=true&theme=transparent&hide_border=false&count_private=true&rank_icon=github&title_color=64ffda&text_color=cdd9e5&icon_color=64ffda&border_color=1e2d40&border_radius=10&cache_seconds=86400" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Kanishkaangira&theme=transparent&hide_border=false&border=1e2d40&background=0a0f1e&ring=64ffda&fire=f78166&currStreakLabel=64ffda&sideLabels=64ffda&dates=768390&currStreakNum=cdd9e5&sideNums=cdd9e5&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishkaangira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kanishkaangira&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkaangira&theme=transparent&hide_border=false&layout=compact&langs_count=6&title_color=64ffda&text_color=cdd9e5&border_color=1e2d40&border_radius=10&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishkaangira&bg_color=0a0f1e&color=64ffda&line=64ffda&point=f78166&area=true&area_color=64ffda&hide_border=false&border_color=1e2d40&radius=10" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkaangira&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=&border_radius=10" />
+<img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishkaangira&theme=tokyo-night&hide_border=true&area=true&border_radius=10" />
 
 </div>
 
