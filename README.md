@@ -64,37 +64,20 @@ kanishka = {
 
 ---
 
-
-## 📊 GitHub Analytics
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kanishkaangira&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishkaangira&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=10" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kanishkaangira&theme=transparent&hide_border=false&border=30363d&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=10" />
+
 </div>
 
 <div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Kanishkaangira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="32%" src="https://streak-stats.demolab.com/?user=Kanishkaangira&theme=tokyonight&hide_border=true" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkaangira&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishkaangira&theme=tokyo-night&hide_border=true&area=true&area_color=00b4d8" />
-  <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kanishkaangira&theme=tokyonight" />
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkaangira&theme=transparent&hide_border=false&layout=compact&langs_count=6&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishkaangira&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff&hide_border=false&border_color=30363d&radius=10" />
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kanishkaangira&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kanishkaangira&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanishkaangira&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kanishkaangira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
