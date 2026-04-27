@@ -64,42 +64,20 @@ kanishka = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ Cyber Guard — AI-Based Cyber Incident Guidance App
-> *Team Project | Core Developer*
-
-| Detail | Info |
-|--------|------|
-| 🧠 Model | Fine-tuned LLM on 650+ verified cybersecurity cases |
-| 📱 Stack | React Native + FastAPI + Firebase + Hugging Face |
-| ✅ Reliability | 98% response accuracy during testing |
-| 📰 Feature | Real-time cyber news API integration |
-
-🔗 [View Repository](https://github.com/Krishankant7211/Cyber-guard)
-
----
-
-### 🛰️ Orbital Sentinel — Satellite Telemetry Health Monitor
-> *Individual Project*
-
-| Detail | Info |
-|--------|------|
-| 🔍 ML Model | Isolation Forest (unsupervised anomaly detection) |
-| 📊 Output | 0–100 Health Index per subsystem |
-| 🖥️ Dashboard | Real-time mission-control telemetry visualization |
-| ⚙️ Stack | Python + Scikit-learn + Pandas + Streamlit |
-
-🔗 [View Repository](https://github.com/Kanishkaangira/-Detection-ML)
-
----
+## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Kanishkaangira&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+<div align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanishkaangira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishkaangira&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kanishkaangira&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -110,13 +88,9 @@ kanishka = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kanishkaangira&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanishkaangira&theme=tokyonight" />
 
 </div>
 
